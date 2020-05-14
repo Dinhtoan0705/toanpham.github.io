@@ -1,0 +1,15 @@
+{
+    "name": "web",
+    "version": "1.0.0",
+    "description": "A simple website built with Node, Express and Pug",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "ToanPham",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "pug": "^2.0.4"
+    }
+}
